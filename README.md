@@ -1,6 +1,6 @@
-# jd-chiseids
+# chiseids
 
-Japanese Data (JD) chiseids data module.
+JPND chiseids data module.
 
 ## License
 
