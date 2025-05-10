@@ -1,6 +1,6 @@
 # chiseids
 
-JPND chiseids data module.
+The jpndium chiseids data module.
 
 ## License
 
