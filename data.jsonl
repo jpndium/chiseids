@@ -55208,7 +55208,7 @@
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BDB","character":"𦯛","ids":"⿴𦬇𠔿"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BDC","character":"𦯜","ids":"⿱艹皃"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BDD","character":"𦯝","ids":"⿱芷小"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BDE","character":"𦯞","ids":"⿱艹⿸𠂇用"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BDE","character":"𦯞","ids":"⿸⿱艹𠂇用"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BDF","character":"𦯟","ids":"⿱艹肟"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BE0","character":"𦯠","ids":"⿱艹乱"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BE1","character":"𦯡","ids":"⿱艹⿱弓心"}
@@ -55223,10 +55223,10 @@
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BEA","character":"𦯪","ids":"⿱艹杓"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BEB","character":"𦯫","ids":"⿱艹𣲑"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BEC","character":"𦯬","ids":"⿱艹佘"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BED","character":"𦯭","ids":"⿱艹⿺𠃊㠯"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BED","character":"𦯭","ids":"⿱艹𲏘"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BEE","character":"𦯮","ids":"⿱芖毛"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BEF","character":"𦯯","ids":"⿱艹&GT-K03131;"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BF0","character":"𦯰","ids":"⿱艹⿸厂石"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BF0","character":"𦯰","ids":"⿸⿱艹厂石"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BF1","character":"𦯱","ids":"⿱艹𠈄"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BF2","character":"𦯲","ids":"⿱芬兀"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026BF3","character":"𦯳","ids":"⿱芬廾"}
@@ -55439,7 +55439,7 @@
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC2","character":"𦳂","ids":"⿱艹洟"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC3","character":"𦳃","ids":"⿱艹耶"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC4","character":"𦳄","ids":"⿱艹便"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC5","character":"𦳅","ids":"⿱艹⿸广&CDP-89E7;"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC5","character":"𦳅","ids":"⿱艹𢈔"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC6","character":"𦳆","ids":"⿱艹兗"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC7","character":"𦳇","ids":"⿱艹恬"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00026CC8","character":"𦳈","ids":"⿱艹毗"}
@@ -56486,13 +56486,13 @@
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270D9","character":"𧃙","ids":"⿱艹韓"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DA","character":"𧃚","ids":"⿱艹膸"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DB","character":"𧃛","ids":"⿱艹購"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DC","character":"𧃜","ids":"⿱艹⿳&GT-K03322;目⿱八夂"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DC","character":"𧃜","ids":"⿱艹⿱&GT-K03322;⿱目⿱八夂"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DD","character":"𧃝","ids":"⿱艹醜"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DE","character":"𧃞","ids":"⿱艹冀"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DF","character":"𧃟","ids":"⿱艹&MJ020741;"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270DF","character":"𧃟","ids":"⿱艹翼"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270E0","character":"𧃠","ids":"⿱艹⿰甚青"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270E1","character":"𧃡","ids":"⿱艹⿰氵⿱巛&CDP-8850;"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270E2","character":"𧃢","ids":"⿱艹⿸虍異"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270E2","character":"𧃢","ids":"⿱艹𧇽"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270E3","character":"𧃣","ids":"⿱艹𥊽"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270E4","character":"𧃤","ids":"⿳艹⿱聿灬貝"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-000270E5","character":"𧃥","ids":"⿳艹⿱六冏衣"}
@@ -60152,7 +60152,7 @@
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F2B","character":"𧼫","ids":"⿺走胃"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F2C","character":"𧼬","ids":"⿺走㚇"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F2D","character":"𧼭","ids":"⿺走叜"}
-{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F2E","character":"𧼮","ids":"⿺走&AJ1-05099;"}
+{"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F2E","character":"𧼮","ids":"⿺走昜"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F2F","character":"𧼯","ids":"⿺走俞"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F30","character":"𧼰","ids":"⿺走臿"}
 {"filename":"IDS-UCS-Ext-B-4.txt","codepoint":"U-00027F31","character":"𧼱","ids":"⿺走复"}
